@@ -1,2 +1,2 @@
 # Pilot
-first programming code with python!!
+first program with python!!
